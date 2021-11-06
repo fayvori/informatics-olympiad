@@ -1,0 +1,2 @@
+# informatics-olympiad
+hello world
