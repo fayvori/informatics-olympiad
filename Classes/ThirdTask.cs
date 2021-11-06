@@ -1,6 +1,5 @@
 ﻿using System;
 using Olympiad.Classes.Util;
-using System.Linq;
 
 namespace Olympiad.Classes
 {
